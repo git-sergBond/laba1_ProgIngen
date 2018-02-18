@@ -1,4 +1,4 @@
 #игнорируем исполняемые файлы .exe
-bin\Debug\*.exe
+.\bin\Debug\*.exe
 #игнорируем файлы компиляции .o
-obj\Debug\*.o
+.\obj\Debug\*.o
